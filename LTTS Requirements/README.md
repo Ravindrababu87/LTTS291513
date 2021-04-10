@@ -37,6 +37,7 @@
       <h5>This issue is faced all over the world and it is useful in all the places.
         <h3>HOW
           <h5>This problem causes wastage of time for both customers and bank staff by adding more work.
+            
  <h2>Requirements
    <h3>High Level Requirements
      <h5>* The barcode on back of card autentiactes the account number and user details from the entered card.
