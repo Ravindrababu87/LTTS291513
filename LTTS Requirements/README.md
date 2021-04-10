@@ -20,10 +20,10 @@
               <h2>Advantages
                 <h5> We can withdraw cash at any time, day or night. The bank
                 doesn’t need to open.
-                  <h5> We can withdraw cash at any time, day or night. The bank
-                  doesn’t need to open.
-                    <h5> We can withdraw cash at any time, day or night. The bank
-                    doesn’t need to open.
+                  <h5> There is no need to fill the withdraw and deposit forms as
+                it is required in bank.
+                    <h5>It keeps our money safe.
+                      
              
           
       
