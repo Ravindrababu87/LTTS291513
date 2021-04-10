@@ -37,14 +37,16 @@
       <h5>This issue is faced all over the world and it is useful in all the places.
         <h3>HOW
           <h5>This problem causes wastage of time for both customers and bank staff by adding more work.
-            
-            
+<h2>SWOT 
+             ![SWOT analysis image](https://user-images.githubusercontent.com/81628668/114271170-b3761c00-9a2d-11eb-83c1-6c32de5cde10.png)
+
  <h2>Requirements
    <h3>High Level Requirements
      <h5>* The barcode on back of card autentiactes the account number and user details from the entered card.
        <h5>* The user shall able to change the pin.
          <h5>* The user shall able to perform actions like balance enquiry and withdrawl of money from account.
            <h5>* The user data should always protected.
+             
        
        
      
