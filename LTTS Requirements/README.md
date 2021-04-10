@@ -26,7 +26,7 @@
                       <h2>State of Art
                         <h5>* Ageing Time - 10 Days
                           <h5>* Ageing Cost - 0.2$ per transaction
-                            <h2>4 W and 1 H
+                            <h2>4 W's and 1 H
                               <h3>WHO
                                 <h5>People of all classes who make financial transactions and balance enquires.
                                   <h3>WHAT
@@ -37,6 +37,7 @@
       <h5>This issue is faced all over the world and it is useful in all the places.
         <h3>HOW
           <h5>This problem causes wastage of time for both customers and bank staff by adding more work.
+            
             
  <h2>Requirements
    <h3>High Level Requirements
