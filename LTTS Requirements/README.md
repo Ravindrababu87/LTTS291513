@@ -7,22 +7,22 @@
     with denomination. Once the amount is withdrawn , the
     amount will be debited in their account.
       <h2>Scope of the project
-        <h5> As per RBI , for ATM industry , India is a huge market . It is
+        <h5>* As per RBI , for ATM industry , India is a huge market . It is
         a place with 1.2 billion people ,where 40% of them were
         unbanked.
-          <h5> The future will see multi vendor ATM popularity , which
+          <h5>* The future will see multi vendor ATM popularity , which
        will provide personalized features and a user friendly
        interface.
-            <h5> The ATM technology has developed to such an extent that
+            <h5>* The ATM technology has developed to such an extent that
           some ATM s can memorize consumer preferences as per
           their past transactions , behaviour and tailor services
           accordingly.
               <h2>Advantages
-                <h5> We can withdraw cash at any time, day or night. The bank
+                <h5>* We can withdraw cash at any time, day or night. The bank
                 doesn’t need to open.
-                  <h5> There is no need to fill the withdraw and deposit forms as
+                  <h5>* There is no need to fill the withdraw and deposit forms as
                    it is required in bank.
-                    <h5>It keeps our money safe.
+                    <h5>* It keeps our money safe.
                       <h2>State of Art
                         <h5>* Ageing Time - 10 Days
                           <h5>* Ageing Cost - 0.2$ per transaction
@@ -45,8 +45,11 @@
      <h5>* The barcode on back of card autentiactes the account number and user details from the entered card.
        <h5>* The user shall able to change the pin.
          <h5>* The user shall able to perform actions like balance enquiry and withdrawl of money from account.
-           <h5>* The user data should always protected.
-             
+             <h3>Low Level Requirements
+               <h5>* The balance and the set of actions performed should be updated after the user ends the session.
+                 <h5>* The autenticate details should be verified and permission should deny if the user is invalid.
+                   <h5>* The users are authorized to perform only a set of actions that are limited and can't exceed the authorization level.
+                     <h5>* The user data should always protected.
        
        
      
