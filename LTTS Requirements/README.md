@@ -9,7 +9,7 @@
    ##### * We can withdraw cash at any time, day or night. The bank doesn’t need to open.
    ##### * There is no need to fill the withdraw and deposit forms as it is required in bank.
    ##### * It keeps our money safe.
-   ##### * State of Art
+   ## State of Art
    ##### * Ageing Time - 10 Days
    ##### * Ageing Cost - 0.2$ per transaction
    ## 4 W's and 1 H
