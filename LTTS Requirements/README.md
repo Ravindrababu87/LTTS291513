@@ -13,6 +13,8 @@
    ##### * Ageing Time - 10 Days
    ##### * Ageing Cost - 0.2$ per transaction
    ## 4 W's and 1 H
+   ![Screenshot (19)](https://user-images.githubusercontent.com/81628668/114749258-61583200-9d70-11eb-94c0-f4f622d7f358.png)
+
    ### WHO
    ##### People of all classes who make financial transactions and balance enquires.
    ### WHAT
