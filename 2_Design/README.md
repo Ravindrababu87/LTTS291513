@@ -5,10 +5,13 @@ It's an international industry standard graphicalnotation used for describing, v
  ###  1.Structure Diagrams
  1.Class Diagram :
  It defines the structure of each class and relationships between the classes
-
+ ![class](https://user-images.githubusercontent.com/81628668/114858431-13423d80-9e07-11eb-9e3d-db5281e15946.jpeg)
 
  2.Deployment Diagram :
  It defines the physical layout of the system
+ ![Deploy](https://user-images.githubusercontent.com/81628668/114858498-294ffe00-9e07-11eb-96e9-43ead7711f0b.jpeg)
+
+
  
 ### 2.Behavioral Diagrams
 1.Usecase Diagram :It defines the functions provided by the system and relationships between the external users
