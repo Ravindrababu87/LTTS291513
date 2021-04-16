@@ -1,6 +1,8 @@
 # Requirements
   ## Introduction
   ##### The ATM System is the project which is used to access their bank accounts in order to make cash withdrawals.Whenever the user need to make cash withdraws, they can enter  their PIN number and it will display the amount with denomination. Once the amount is withdrawn , the amount will be debited in their account.
+  ## About the project
+  ##### Automated Teller Machine enables the clients of a bank to have access to their account without going to the bank. This is achieved only by development the application using online concepts .The product also provides services like request for cheques,deposit cash and other advanced requirements of user.The data stored in database and is retrieved when ever it is necessary.The implementation needs ATM machine hardware to operate or similar simulated conditions can also be used to successfully use the developed product.
   ## Scope of the project
   ##### * As per RBI , for ATM industry , India is a huge market . It is a place with 1.2 billion people ,where 40% of them wereunbanked.
   ##### * The future will see multi vendor ATM popularity , which will provide personalized features and a user friendly interface.
