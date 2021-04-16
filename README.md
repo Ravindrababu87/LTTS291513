@@ -27,8 +27,8 @@ Once the amount is withdrawn , the amount will be debited in their account.
  Automated Teller Machine enables the clients of a bank to have access to their account without going to the bank. This is achieved only by development the application using online concepts .The product also provides services like request for cheques,deposit cash and other advanced requirements of user.The data stored in database and is retrieved when ever it is necessary.The implementation needs ATM machine hardware to operate or similar simulated conditions can also be used to successfully use the developed product.
 
 ## Learning Resources
-1.![git inspector](https://github.com/ejwa/gitinspector.git)
-2.![github workflow](https://docs.github.com/en/actions/learn-github-action)
-3.![markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-4.![markdownBasics]
+1. [git inspector](https://github.com/ejwa/gitinspector.git)
+2. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+3. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
