@@ -17,5 +17,6 @@ Folder           | Description
 3_Implementation | Complete code and documentation about the project
 4_Test_plan      | Documents with test plans and procedures
 5_Report         | Details about project and evaluation
+6_Images_and_videos | The images and digital data represnting about the project
  
 
