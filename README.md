@@ -1,6 +1,9 @@
 # LTTS291513
 
 Automated Teller Machine(ATM) enables the clients of a bank to have access to their account without going to the bank.
+##
+![atm logo](https://user-images.githubusercontent.com/81628668/114976665-fe67b780-9ea3-11eb-881a-a8d2f70c45f8.jpg)
+
 
 Build | Code Quality | Unity | Git Inspector
 ------|--------------|-------|--------------|
