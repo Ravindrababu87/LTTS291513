@@ -15,8 +15,8 @@ Folder           | Description
 1_Requirements   | Detailied information about requirements of project
 2_Design         | Data specifying design and structure details
 3_Implementation | Complete code and documentation about the project
-4_TestPlanandOutput      | Documents with test plans and procedures
+4_TestPlanAndOutput      | Documents with test plans and procedures
 5_Report         | Details about project and evaluation
-6_ImagesandVideos | The images and digital data represnting about the project
+6_ImagesAndVideos | The images and digital data represnting about the project
  
 
