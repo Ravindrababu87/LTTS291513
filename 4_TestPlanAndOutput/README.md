@@ -12,9 +12,9 @@
 ## Low Level Test Plans
 |L_ID | Test Case Scenario | Testcase | Status |
 |-----|--------------------|----------|---------|
-|TID01| Allow multiple actions | Perform Actions | Passed |
-|TID02| Withdraw amount should be less than Balance amount| Minimum withdraw | Passed |
-|TID03| Updating Balance after each transcation | Updation  | Passed |
+|LL01| Allow multiple actions | Perform Actions | Passed |
+|LL02| Withdraw amount should be less than Balance amount| Minimum withdraw | Passed |
+|LL03| Updating Balance after each transcation | Updation  | Passed |
  ## Test Output
 ![Screenshot (20)](https://user-images.githubusercontent.com/81628668/114973862-e8a3c380-9e9e-11eb-972a-f52030ee218f.png)
 
