@@ -1,3 +1,3 @@
-# images and videos
+# IMAGES and VIDEOS
 
-* Add any images or Videos related to the implemented project
+* Images desribing the data related to the project
